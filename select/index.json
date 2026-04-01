@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【MV】ボックスワンターバ〜ン/ぼくわたチャンネル【オリジナル曲】",
+  "base_artist": "ぼくわたチャンネル",
+  "createdAt": "2026-04-01T21:19:09.623371Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボックスワンターバ～ン",
+      "artist": "ぼくわたチャンネル",
+      "has_synced": false,
+      "path": "select/pl_01_ボックスワンターバ~ン_ぼくわたチャンネル.txt"
+    }
+  ]
+}
